@@ -9,7 +9,7 @@
 
 <h3 align="center"> Criada com a stack <img src="image/react.png" alt="react" height="18"> React, <img src="image/react-native.png" alt="react-native" height="18"> React Native, <img src="image/node.png" alt="node" height="18"> Node e <img src="image/sqlite.png" alt="node" height="18"> SQLite </h3>
 
-<h3 align="center"><img src="image/home-background.svg" alt="ecoleta" height="300" width="300"></h3>
+<h3 align="center"><img src="image/home-background.svg" alt="ecoleta" height="500" width="500"></h3>
 
 <p>Usando o poder de uma stack poderosa, que utiliza de uma única linguagem popular e moderna, o <img src="image/js.png" height="18" alt="javascript"> JavaScript.</p>
 

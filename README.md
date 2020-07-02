@@ -1,20 +1,21 @@
 <!-- então bora codar! -->
 
 <h1 align="center">
-    <img alt="" title="" src="image/logo@2x.png">
+    <img alt="Ecoleta" title="Ecoleta" height="350" src="image/logo@2x.png">
 </h1>
+<h2 align="center">Seu marketplace de coleta de resíduos.</h2>
 
-<h3 align="center"> Seu marketplace de coleta de resíduos. Ajudamos pessoas a encontrarem pontos de coleta de forma eficiente. </h3>
+<h3 align="center">Ajudamos pessoas a encontrarem pontos de coleta de forma eficiente.</h3>
 
 <h3 align="center"> Criada com a stack <img src="image/react.png" alt="react" height="18"> React, <img src="image/react-native.png" alt="react-native" height="18"> React Native, <img src="image/node.png" alt="node" height="18"> Node e <img src="image/sqlite.png" alt="node" height="18"> SQLite </h3>
 
-<p align="center"> <img src="image/home-background.svg" alt="ecoleta" height="250"> </p>
+<p align="center"> <img src="image/home-background.svg" alt="ecoleta" height="550"> </p>
 
 <p align="center"> Usando o poder de uma stack poderosa, que utiliza de uma única linguagem popular e moderna, o <img src="image/js.png" height="18" alt="javascript"> JavaScript. <br> Produtividade e performance de forma enxuta. </p>
 
 ---
 
-A Next Level Week, ocorrida na semana internacional do meio ambiente. O Ecoleta serve como conexão entre empresas com entidades que coletam resíduos orgânicos e resíduos inorgânicos. Trouxe como projeto uma aplicação web e mobile inédita e pela primeira vez trazendo typeScript.
+A <img src="image/nlw.png" height="18" alt="nlw"> Next Level Week, ocorrida na semana internacional do meio ambiente trouxe um projeto chamado Ecoleta que serve como conexão entre empresas com entidades que coletam resíduos orgânicos e resíduos inorgânicos. Uma aplicação web e mobile inédita e pela primeira vez trazendo <img src="image/typescript.png" height="18" alt="typeScript"> typeScript.
 
 Em uma semana foi desenvolvida uma aplicação do zero, dominando o backend, frontend e o mobile com uma única linguagem e uma única biblioteca de interfaces.
 

@@ -1,7 +1,7 @@
 <!-- então bora codar! -->
 
 <h1 align="center">
-    <img alt="Ecoleta" title="Ecoleta" height="350" src="image/logo@2x.png">
+    <img alt="Ecoleta" title="Ecoleta" height="100" src="image/logo@2x.png">
 </h1>
 <h2 align="center">Seu marketplace de coleta de resíduos.</h2>
 
@@ -11,11 +11,11 @@
 
 <p align="center"> <img src="image/home-background.svg" alt="ecoleta" height="550"> </p>
 
-<p align="center"> Usando o poder de uma stack poderosa, que utiliza de uma única linguagem popular e moderna, o <img src="image/js.png" height="18" alt="javascript"> JavaScript. <br> Produtividade e performance de forma enxuta. </p>
-
 ---
 
-A <img src="image/nlw.png" height="18" alt="nlw"> Next Level Week, ocorrida na semana internacional do meio ambiente trouxe um projeto chamado Ecoleta que serve como conexão entre empresas com entidades que coletam resíduos orgânicos e resíduos inorgânicos. Uma aplicação web e mobile inédita e pela primeira vez trazendo <img src="image/typescript.png" height="18" alt="typeScript"> typeScript.
+<p align="center"> Usando o poder de uma stack poderosa, que utiliza de uma única linguagem popular e moderna, o <img src="image/js.png" height="18" alt="javascript"> JavaScript. <br> Produtividade e performance de forma enxuta. </p>
+
+A <img src="image/nlw.png" height="18" alt="nlw"> Next Level Week, ocorrida na semana internacional do meio ambiente trouxe um projeto chamado Ecoleta que serve como conexão entre empresas com entidades que coletam resíduos orgânicos e resíduos inorgânicos. Uma aplicação web e mobile inédita e pela primeira vez trazendo <img src="image/typescript.png" height="22" alt="typeScript"> typeScript.
 
 Em uma semana foi desenvolvida uma aplicação do zero, dominando o backend, frontend e o mobile com uma única linguagem e uma única biblioteca de interfaces.
 

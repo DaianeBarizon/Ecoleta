@@ -9,9 +9,9 @@
 
 <h3 align="center"> Criada com a stack <img src="image/react.png" alt="react" height="18"> React, <img src="image/react-native.png" alt="react-native" height="18"> React Native, <img src="image/node.png" alt="node" height="18"> Node e <img src="image/sqlite.png" alt="node" height="18"> SQLite </h3>
 
-<p align="center"> <img src="image/home-background.svg" alt="ecoleta" height="400" width="500"> </p>
+<p align="center"> <img src="image/home-background.svg" alt="ecoleta" height="300" width="500"> </p>
 
-<p align="center">Usando o poder de uma stack poderosa, que utiliza de uma única linguagem popular e moderna, o <img src="image/js.png" height="18" alt="javascript"> JavaScript.</p>
+<p>Usando o poder de uma stack poderosa, que utiliza de uma única linguagem popular e moderna, o <img src="image/js.png" height="18" alt="javascript"> JavaScript.</p>
 
 A <img src="image/nlw.png" height="18" alt="nlw"> Next Level Week, ocorrida na semana internacional do meio ambiente trouxe um projeto chamado Ecoleta que serve como conexão entre empresas com entidades que coletam resíduos orgânicos e resíduos inorgânicos. Uma aplicação web e mobile inédita e pela primeira vez trazendo <img src="image/typescript.png" height="22" alt="typeScript"> typeScript.
 

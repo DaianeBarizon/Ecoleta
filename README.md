@@ -1,7 +1,7 @@
 <!-- então bora codar! -->
 
 <h1 align="center">
-    <img alt="Ecoleta" title="Ecoleta" height="100" src="image/logo@2x.png">
+    <img alt="Ecoleta" title="Ecoleta" height="50" src="image/logo@2x.png">
 </h1>
 <h2 align="center">Seu marketplace de coleta de resíduos.</h2>
 
@@ -9,7 +9,7 @@
 
 <h3 align="center"> Criada com a stack <img src="image/react.png" alt="react" height="18"> React, <img src="image/react-native.png" alt="react-native" height="18"> React Native, <img src="image/node.png" alt="node" height="18"> Node e <img src="image/sqlite.png" alt="node" height="18"> SQLite </h3>
 
-<p align="center"> <img src="image/home-background.svg" alt="ecoleta" height="550"> </p>
+<p align="center"> <img src="image/home-background.svg" alt="ecoleta" height="500" height="500"> </p>
 
 ---
 

@@ -11,9 +11,7 @@
 
 <p align="center"> <img src="image/home-background.svg" alt="ecoleta" height="500" height="500"> </p>
 
----
-
-<p align="center"> Usando o poder de uma stack poderosa, que utiliza de uma única linguagem popular e moderna, o <img src="image/js.png" height="18" alt="javascript"> JavaScript. <br> Produtividade e performance de forma enxuta. </p>
+<p align="center">Usando o poder de uma stack poderosa, que utiliza de uma única linguagem popular e moderna, o <img src="image/js.png" height="18" alt="javascript"> JavaScript.</p>
 
 A <img src="image/nlw.png" height="18" alt="nlw"> Next Level Week, ocorrida na semana internacional do meio ambiente trouxe um projeto chamado Ecoleta que serve como conexão entre empresas com entidades que coletam resíduos orgânicos e resíduos inorgânicos. Uma aplicação web e mobile inédita e pela primeira vez trazendo <img src="image/typescript.png" height="22" alt="typeScript"> typeScript.
 
